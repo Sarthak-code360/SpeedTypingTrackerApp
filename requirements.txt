@@ -1,2 +1,4 @@
+Make a virtual enviroment then install the following packages
+
 pygame==2.0.1
 pyjokes==0.6.0
